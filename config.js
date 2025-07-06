@@ -21,8 +21,8 @@ module.exports = {
   growgardenChannelId: "1384561242815070328", // ID channel growgarden
   channelIds: {
     rules: "1386759038347247746", // ID channel rules
-    pricelist: "wajib di isi", // ID channel pricelist
-    ticket: "wajib di isi", // ID channel ticket
-    queue: "wajib di isi", // ID channel queue
+    pricelist: "1384561242815070328", // ID channel pricelist
+    ticket: "1384561242815070328", // ID channel ticket
+    queue: "1384561242815070328", // ID channel queue
   },
 };
