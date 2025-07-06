@@ -1,19 +1,19 @@
 module.exports = {
   // Bot Identity
   botName: "BetaBotz", // Nama bot kamu
-  ownerID: "BetaBotz", // Ganti dengan Nama Kamu
+  ownerID: "Alief Kaka", // Ganti dengan Nama Kamu
 
   // Discord Settings
   token:
     "token bot kamu", // Ganti dengan token bot kamu
-  prefix: "!", // Prefix utama untuk bot ini
+  prefix: ".", // Prefix utama untuk bot ini
   guildID: "wajib di isi", // ID server tempat bot ini berada
 
   // API Keys
-  apikey_lann: "wajib di isi", // Isi APIkey dari https://api.betabotz.eu.org
+  apikey_lann: "btzsandikaaa78", // Isi APIkey dari https://api.betabotz.eu.org
 
   // Menu & Feature Settings
-  menuPublic: false, // Apakah menu public aktif?
+  menuPublic: true, // Apakah menu public aktif?
 
   // Channel IDs
   joinChannelId: "wajib di isi", // ID channel join
