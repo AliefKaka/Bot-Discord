@@ -5,7 +5,7 @@ module.exports = {
 
   // Discord Settings
   token:
-    "token bot kamu", // Ganti dengan token bot kamu
+    "MTM5MTM1NjAzMDczODIzOTYwOQ.GQU3Gl.JHZQKmlAy5M6Csd4xYVEufJ0lhcnGrmzGVP5ag", // Ganti dengan token bot kamu
   prefix: ".", // Prefix utama untuk bot ini
   guildID: "wajib di isi", // ID server tempat bot ini berada
 
